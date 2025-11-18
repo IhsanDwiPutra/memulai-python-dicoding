@@ -6,7 +6,7 @@
 
 Selamat datang di repository belajar saya! 👋
 
-Repository ini didedikasikan untuk mendokumentasikan perjalanan saya mempelajari **Python dari Nol** melalui kelas [Dicoding: Memulai Pemrograman dengan Python](https://www.dicoding.com/).
+Repository ini didedikasikan untuk mendokumentasikan perjalanan saya mempelajari **Python dari Nol** melalui kelas [Dicoding: Memulai Pemrograman dengan Python](https://www.dicoding.com/academies/86/corridor).
 
 Tujuan repository ini dibuat:
 1.  **Arsip Kode:** Menyimpan setiap latihan dan materi yang saya pelajari.
