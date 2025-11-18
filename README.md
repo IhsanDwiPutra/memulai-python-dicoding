@@ -19,7 +19,7 @@ Tujuan repository ini dibuat:
 
 Saya akan mencentang materi di bawah ini setelah saya selesai mempelajarinya dan mengupload kodenya.
 
-- [ ] **1. Persiapan & Pengenalan**
+- [x] **1. Persiapan & Pengenalan**
   - [ ] Instalasi Python & VS Code
   - [ ] Menjalankan program Python pertama (`print`)
 
