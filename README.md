@@ -20,11 +20,11 @@ Tujuan repository ini dibuat:
 Saya akan mencentang materi di bawah ini setelah saya selesai mempelajarinya dan mengupload kodenya.
 
 - [x] **1. Persiapan & Pengenalan**
-  - [ ] Instalasi Python & VS Code
-  - [ ] Menjalankan program Python pertama (`print`)
+  - [x] Instalasi Python & VS Code
+  - [x] Menjalankan program Python pertama (`print`)
 
 - [ ] **2. Berinteraksi dengan Data**
-  - [ ] Variabel dan Assignment
+  - [x] Variabel dan Assignment
   - [ ] Tipe Data (String, Integer, Float, Boolean)
   - [ ] Input Output
   - [ ] Operator (Aritmatika, Perbandingan, Logika)
